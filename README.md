@@ -12,6 +12,10 @@ Achieved **Global Rank #1** with a score of **1200+**, something **not humanly p
 
 
 
+https://github.com/user-attachments/assets/194d984b-3120-44e6-9d2e-956251cf1411
+
+
+
 ---
 
 ## ⚙️ How It Works
@@ -19,7 +23,7 @@ Achieved **Global Rank #1** with a score of **1200+**, something **not humanly p
 - Turn on the extension.
 - Open either:
   - [Arithmetic Game](https://openquant.co/math-game)
-  - or [Arithmetic Pro](https://openquant.co/math-pro)
+  - or [Arithmetic Pro](https://openquant.co/math-game)
 - Watch the magic happen — the extension **auto-solves** every arithmetic question for you.
 - **Adjust the solving speed** inside the extension settings according to your preference.
 
@@ -61,8 +65,8 @@ I encourage **OpenQuant.co** to implement better obfuscation and security measur
 
 - **Jashgro**  
   - [GitHub](https://github.com/BlackHatDevX)  
-  - [LinkedIn](https://linkedin.com/in/jashan-grover)  
-  - [Portfolio](https://bit.ly/jashgro)
+  - [LinkedIn](https://linkedin.com/in/jash-gro)  
+  - [Portfolio](https://blackhatdevx.github.io/)
 
 - **Developer_x**
 
