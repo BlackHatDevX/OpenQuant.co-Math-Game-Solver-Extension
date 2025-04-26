@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OpenQuant Solver Settings</title>
+    <style>
+        body { font-family: sans-serif; width: 250px; padding: 10px; }
+        .setting { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+        .slider-container { display: flex; align-items: center; }
+        #speedSlider { flex-grow: 1; margin: 0 10px; }
+        #speedValue { min-width: 30px; text-align: right; }
+        .credits { font-size: 0.8em; margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px; }
+        .credits a { color: #3366cc; text-decoration: none; }
+        .credits a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h3>OpenQuant Solver</h3>
+    <div class="setting">
+        <label for="toggleSolver">Enable Solver:</label>
+        <input type="checkbox" id="toggleSolver">
+    </div>
+    <div class="setting">
+        <label for="speedSlider">Speed:</label>
+        <div class="slider-container">
+            <span>Slow</span>
+            <input type="range" id="speedSlider" min="1" max="100" step="1">
+            <span>Fast</span>
+        </div>
+         <span id="speedValue"></span>
+    </div>
+    <div class="credits">
+        <p>Credits to: jashgro</p>
+        <p><a href="https://github.com/BlackHatDevX/open-quant-score-killer" target="_blank">GitHub Repo</a></p>
+        <p><a href="https://www.linkedin.com/in/jash-gro/" target="_blank">LinkedIn Profile</a></p>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html> 
