@@ -11,14 +11,9 @@ An extension that **automatically solves** the [OpenQuant.co Math Game](https://
 Achieved **Global Rank #1** with a score of **1200+**, something **not humanly possible**!
 
 <div align="center">
-  <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/O7MgRv6OEPc?autoplay=1&mute=1" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen>
-  </iframe>
+  <a href="https://www.youtube.com/watch?v=O7MgRv6OEPc" target="_blank">
+    <img src="https://img.youtube.com/vi/O7MgRv6OEPc/hqdefault.jpg" alt="OpenQuant Solver Proof Video" width="560">
+  </a>
 </div>
 
 ---
